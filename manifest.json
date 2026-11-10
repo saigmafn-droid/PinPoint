@@ -1,6 +1,6 @@
 {
-  "name": "GeoLingo",
-  "short_name": "GeoLingo",
+  "name": "PinPoint",
+  "short_name": "PinPoint",
   "description": "Learn flags, capitals, borders and maps",
   "start_url": "./",
   "scope": "./",
